@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Dagger Hilt Demo</string>
+    <string name="could_not_reach_server">Could not reach server..!</string>
+    <string name="server_response_error">Server response error…!</string>
+    <string name="title">Title</string>
+    <string name="description_text">This is a description of news</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
